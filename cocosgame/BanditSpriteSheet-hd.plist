@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>BanditAttackLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{58, 29}, {128, 273}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -14}</string>
+			<key>spriteSize</key>
+			<string>{128, 273}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 275}, {128, 273}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{2, 31}, {182, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{-37, -15}</string>
+			<key>spriteSize</key>
+			<string>{182, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 550}, {182, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 31}, {180, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{-40, -15}</string>
+			<key>spriteSize</key>
+			<string>{180, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{130, 273}, {180, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 31}, {176, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{-41, -15}</string>
+			<key>spriteSize</key>
+			<string>{176, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{178, 1642}, {176, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 31}, {176, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{-41, -15}</string>
+			<key>spriteSize</key>
+			<string>{176, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1642}, {176, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{73, 29}, {128, 273}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -14}</string>
+			<key>spriteSize</key>
+			<string>{128, 273}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {128, 273}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 31}, {182, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{37, -15}</string>
+			<key>spriteSize</key>
+			<string>{182, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{130, 0}, {182, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{80, 31}, {180, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{40, -15}</string>
+			<key>spriteSize</key>
+			<string>{180, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 823}, {180, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 31}, {178, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{41, -15}</string>
+			<key>spriteSize</key>
+			<string>{178, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1096}, {178, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditAttackRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 31}, {178, 271}}</string>
+			<key>spriteOffset</key>
+			<string>{41, -15}</string>
+			<key>spriteSize</key>
+			<string>{178, 271}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1369}, {178, 271}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditIdleLeft.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 58}, {130, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -28}</string>
+			<key>spriteSize</key>
+			<string>{130, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 273}, {130, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditIdleRight.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{73, 58}, {130, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -28}</string>
+			<key>spriteSize</key>
+			<string>{130, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1915}, {243, 130}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>BanditRunLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 66}, {198, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -23}</string>
+			<key>spriteSize</key>
+			<string>{198, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{782, 928}, {198, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{62, 72}, {150, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -36}</string>
+			<key>spriteSize</key>
+			<string>{150, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{490, 1811}, {150, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 72}, {120, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -36}</string>
+			<key>spriteSize</key>
+			<string>{120, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{594, 233}, {120, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 72}, {106, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -36}</string>
+			<key>spriteSize</key>
+			<string>{106, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{692, 466}, {106, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 70}, {162, 227}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -32}</string>
+			<key>spriteSize</key>
+			<string>{162, 227}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{800, 462}, {162, 227}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 65}, {196, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -22}</string>
+			<key>spriteSize</key>
+			<string>{196, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1194, 0}, {196, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 71}, {198, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -28}</string>
+			<key>spriteSize</key>
+			<string>{198, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{880, 229}, {198, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{63, 72}, {148, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -36}</string>
+			<key>spriteSize</key>
+			<string>{148, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{542, 478}, {148, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{77, 72}, {114, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -36}</string>
+			<key>spriteSize</key>
+			<string>{114, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{666, 944}, {114, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 72}, {114, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -36}</string>
+			<key>spriteSize</key>
+			<string>{114, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{664, 711}, {114, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 71}, {162, 227}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -33}</string>
+			<key>spriteSize</key>
+			<string>{162, 227}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{830, 0}, {162, 227}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunLeft0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{31, 65}, {196, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -22}</string>
+			<key>spriteSize</key>
+			<string>{196, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{964, 448}, {196, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 64}, {198, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -21}</string>
+			<key>spriteSize</key>
+			<string>{198, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{994, 0}, {198, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 72}, {148, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -36}</string>
+			<key>spriteSize</key>
+			<string>{148, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 245}, {148, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 72}, {120, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -36}</string>
+			<key>spriteSize</key>
+			<string>{120, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{708, 0}, {120, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 72}, {108, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -36}</string>
+			<key>spriteSize</key>
+			<string>{108, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{550, 1177}, {231, 108}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>BanditRunRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 71}, {162, 227}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -33}</string>
+			<key>spriteSize</key>
+			<string>{162, 227}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{780, 699}, {162, 227}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 64}, {196, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -21}</string>
+			<key>spriteSize</key>
+			<string>{196, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1080, 219}, {196, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 69}, {198, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -26}</string>
+			<key>spriteSize</key>
+			<string>{198, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{666, 1287}, {198, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{55, 72}, {148, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -36}</string>
+			<key>spriteSize</key>
+			<string>{148, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{558, 0}, {148, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 72}, {114, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -36}</string>
+			<key>spriteSize</key>
+			<string>{114, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 711}, {114, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{82, 72}, {114, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -36}</string>
+			<key>spriteSize</key>
+			<string>{114, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{550, 944}, {114, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{54, 71}, {162, 227}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -33}</string>
+			<key>spriteSize</key>
+			<string>{162, 227}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{716, 233}, {162, 227}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditRunRight0012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{39, 64}, {196, 217}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -21}</string>
+			<key>spriteSize</key>
+			<string>{196, 217}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{944, 691}, {196, 217}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{57, 58}, {130, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -28}</string>
+			<key>spriteSize</key>
+			<string>{130, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{245, 1915}, {243, 130}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>BanditWalkLeft0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{61, 58}, {126, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, -29}</string>
+			<key>spriteSize</key>
+			<string>{126, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 1096}, {126, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{66, 58}, {122, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -29}</string>
+			<key>spriteSize</key>
+			<string>{122, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{310, 793}, {122, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{72, 58}, {116, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -29}</string>
+			<key>spriteSize</key>
+			<string>{116, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{430, 1317}, {116, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {114, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -28}</string>
+			<key>spriteSize</key>
+			<string>{114, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{312, 518}, {114, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{75, 58}, {112, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -28}</string>
+			<key>spriteSize</key>
+			<string>{112, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 763}, {112, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{72, 58}, {116, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -29}</string>
+			<key>spriteSize</key>
+			<string>{116, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{548, 1287}, {116, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{66, 58}, {122, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -29}</string>
+			<key>spriteSize</key>
+			<string>{122, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{308, 1070}, {122, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{62, 58}, {126, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -29}</string>
+			<key>spriteSize</key>
+			<string>{126, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{180, 1343}, {126, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkLeft0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{58, 58}, {130, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -28}</string>
+			<key>spriteSize</key>
+			<string>{130, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 1534}, {130, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {130, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -28}</string>
+			<key>spriteSize</key>
+			<string>{130, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{642, 1779}, {130, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {126, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -29}</string>
+			<key>spriteSize</key>
+			<string>{126, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{184, 546}, {126, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {120, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -29}</string>
+			<key>spriteSize</key>
+			<string>{120, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{308, 1317}, {120, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {116, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -29}</string>
+			<key>spriteSize</key>
+			<string>{116, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{432, 1040}, {116, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {112, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -28}</string>
+			<key>spriteSize</key>
+			<string>{112, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{428, 518}, {112, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {112, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -28}</string>
+			<key>spriteSize</key>
+			<string>{112, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 0}, {112, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0007.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {116, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -29}</string>
+			<key>spriteSize</key>
+			<string>{116, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{478, 1564}, {116, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0008.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {120, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -29}</string>
+			<key>spriteSize</key>
+			<string>{120, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{356, 1564}, {120, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0009.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {126, 245}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -29}</string>
+			<key>spriteSize</key>
+			<string>{126, 245}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 823}, {126, 245}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BanditWalkRight0010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{74, 58}, {128, 243}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -28}</string>
+			<key>spriteSize</key>
+			<string>{128, 243}</string>
+			<key>spriteSourceSize</key>
+			<string>{260, 303}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{314, 0}, {128, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>BanditSpriteSheet</string>
+		<key>textureFileName</key>
+		<string>BanditSpriteSheet-hd.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
